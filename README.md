@@ -36,8 +36,8 @@ The goal is to:
 
 ## 📈 Visualizations
 
-<img src="plots/top1_accuracy_comparison.png" width="600" />
-<img src="plots/top5_accuracy_comparison.png" width="600" />
+<img src="/top1_accuracy_comparison.png" width="600" />
+<img src="/top5_accuracy_comparison.png" width="600" />
 
 ## 🔍 Key Findings
 
